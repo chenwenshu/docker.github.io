@@ -90,7 +90,7 @@ from the repository.
 
 #### Set up the repository
 
-{% assign download-url-base = "https://download.docker.com/linux/ubuntu" %}
+{% assign download-url-base = "https://download.docker.com/linux/ubuntu/" %}
 
 1.  Update the `apt` package index:
 
